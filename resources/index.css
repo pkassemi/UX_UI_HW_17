@@ -1,0 +1,19 @@
+body {
+    font-family:  'notoserif', sans-serif;
+}
+#pageTopic {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+/* Primary Color */
+.hexCode {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid black;
+    border-top: none;
+    border-bottom-right-radius: 7px;
+}
+.beige {
+    #background-color:#FFF7F0;
+}
